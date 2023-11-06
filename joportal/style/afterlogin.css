@@ -1,0 +1,49 @@
+﻿body {
+    background-color: orangered;
+}
+
+* {
+    margin: auto;
+}
+
+ul li {
+    float: left;
+    margin-left: 50px;
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+ul {
+    margin-left: 100px;
+}
+
+nav {
+    background-color: red;
+}
+
+ul li a {
+    color: wheat;
+    text-decoration: none;
+    font-size: larger
+}
+
+.logo {
+    float: right;
+}
+
+
+.auto-style1 {
+    height: 52px;
+}
+
+img {
+    Height: 40px;
+    Width: 40px;
+    border: 3px solid;
+    border-top-color: red;
+    border-bottom-color: green;
+    border-left-color: blue;
+    border-right-color: yellow;
+    border-radius: 50%;
+
+} 
